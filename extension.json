@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Tax Included"
+  },
+  "description": {
+    "en": "Indicates whether the value tax was included"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/openprocurement/ocds_valueAddedTax_extension"
+  }
+}
